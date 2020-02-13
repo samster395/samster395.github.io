@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dont really know what to put here :|
+Dont really know what to put here.
 
 ### Contact me
 
