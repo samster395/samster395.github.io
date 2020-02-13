@@ -32,4 +32,4 @@ I then just 3D printed it at 0.2mm layer height using a 0.4mm nozzle (bigger noz
 
 I then made a small paper background and painted both (badly) and made a small frame in Tinkercad and printed [this](https://www.thingiverse.com/thing:252254) stand.
 
-I hope this helps others to make cool little 3D pictures.
+I hope this helps others to make cool little (or big) 3D pictures.
