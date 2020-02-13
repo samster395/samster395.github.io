@@ -28,6 +28,8 @@ Then I put it into the wonderful [Lithophane maker](http://3dp.rocks/lithophane/
 
 I used [these](https://i.imgur.com/Vf5Um0q.png) settings.
 
-I then just 3D printed it at 0.2mm layer height using a 0.4mm nozzle
+I then just 3D printed it at 0.2mm layer height using a 0.4mm nozzle (bigger nozzle size and layer heights do work though).
+
+I then made a small paper background and painted both (badly) and made a small frame in Tinkercad and printed [this](https://www.thingiverse.com/thing:252254) stand.
 
 I hope this helps others to make cool little 3D pictures.
