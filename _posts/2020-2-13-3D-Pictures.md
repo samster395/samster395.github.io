@@ -26,9 +26,7 @@ Here are some progress pictures:
 
 Then I put it into the wonderful [Lithophane maker](http://3dp.rocks/lithophane/) by [MarkDurbin104](https://github.com/MarkDurbin104)
 
-I used these settings:
-
-<img src="https://i.imgur.com/Vf5Um0q.png">
+I used [these](https://i.imgur.com/Vf5Um0q.png) settings.
 
 I then just 3D printed it at 0.2mm layer height using a 0.4mm nozzle
 
