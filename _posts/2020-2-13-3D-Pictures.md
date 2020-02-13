@@ -9,6 +9,8 @@ Here is a picture of one of them:
 
 <img src="https://i.imgur.com/4TX3j1M.jpg">
 
+This one is pretty basic but I kinda like the minimalistic look.
+
 Please excuse the terrible paper background and boring paint job on this one, it was the first one I did.
 
 Im pretty happy with it and my plan is to make a bigger one that is like 50cm wide and then make a wooden frame for it.
