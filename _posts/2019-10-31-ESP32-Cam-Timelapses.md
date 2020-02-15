@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32 Timelapses
+title: ESP32 Cam Timelapses
 ---
 
 I recently found out about the ESP32 Camera boards and thought they could be useful for small easy to use timelapse cameras.
