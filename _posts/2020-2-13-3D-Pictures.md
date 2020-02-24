@@ -9,7 +9,9 @@ I have now completed my final goal for this project, I have printed a large scal
 <img src="https://i.imgur.com/RqFVx7m.jpg">
 <img src="https://i.imgur.com/BXfN8Ni.jpg">
 
-I decided to leave this one unpainted as I feel it will show off the detail better, the original photo was taken at Llyn Idwal in Snowdonia.
+This one was printed using a 0.8mm nozzle at 0.32mm layer height, I decided to leave this one unpainted as I feel it will show off the detail better.
+
+The original photo was taken at Llyn Idwal in Snowdonia.
 
 See the original post below for how this was achieved.
 
