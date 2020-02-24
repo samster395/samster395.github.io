@@ -4,8 +4,9 @@ title: 3D Pictures
 ---
 ### Update - 24/2/2020
 ---
-I have now completed my final goal for this project, I have printed a large scale version (~50cm wide), here is a picture:
+I have now completed my final goal for this project, I have printed a large scale version (~50cm wide), here are some pictures:
 
+<img src="https://i.imgur.com/RqFVx7m.jpg">
 <img src="https://i.imgur.com/BXfN8Ni.jpg">
 
 I decided to leave this one unpainted as I feel it will show off the detail better.
