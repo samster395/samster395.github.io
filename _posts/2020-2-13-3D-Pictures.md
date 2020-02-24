@@ -9,7 +9,7 @@ I have now completed my final goal for this project, I have printed a large scal
 <img src="https://i.imgur.com/RqFVx7m.jpg">
 <img src="https://i.imgur.com/BXfN8Ni.jpg">
 
-I decided to leave this one unpainted as I feel it will show off the detail better.
+I decided to leave this one unpainted as I feel it will show off the detail better, the original photo was taken at Llyn Idwal in Snowdonia.
 
 See the original post below for how this was achieved.
 
@@ -22,7 +22,7 @@ Here is a picture of one of them:
 
 <img src="https://i.imgur.com/4TX3j1M.jpg">
 
-This one is pretty basic but I kinda like the minimalistic look.
+This one is pretty basic but I kinda like the minimalistic look, this photo was taken near Wast Water in the Lake district.
 
 Please excuse the terrible paper background and boring paint job on this one, it was the first one I did.
 
