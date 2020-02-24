@@ -2,7 +2,7 @@
 layout: post
 title: 3D Pictures
 ---
-## Update - 24/2/2020
+### Update - 24/2/2020
 I have now completed my final goal for this project, I have printed a large scale version (~50cm wide), here is a picture:
 
 <img src="https://i.imgur.com/BXfN8Ni.jpg">
@@ -11,7 +11,7 @@ I decided to leave this one unpainted as I feel it will show off the detail bett
 
 See the original post below for how this was achieved.
 
-## Original Post
+### Original Post
 
 Recently ive been working on making 3D pictures using 3D printing.
 
@@ -25,7 +25,7 @@ Please excuse the terrible paper background and boring paint job on this one, it
 
 Im pretty happy with it and my plan is to make a bigger one that is like 50cm wide and then make a wooden frame for it.
 
-## Workflow
+### Workflow
 
 This is how I achieved this.
 
