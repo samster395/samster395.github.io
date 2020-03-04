@@ -1,21 +1,6 @@
 ---
 layout: post
-title: 3D Pictures
----
-### Update - 24/2/2020
----
-I have now completed my final goal for this project, I have printed a large scale version (~50cm wide), here are some pictures:
-
-<img src="https://i.imgur.com/RqFVx7m.jpg">
-<img src="https://i.imgur.com/BXfN8Ni.jpg">
-
-This one was printed using a 0.8mm nozzle at 0.32mm layer height, I decided to leave this one unpainted as I feel it will show off the detail better.
-
-The original photo was taken at Llyn Idwal in Snowdonia.
-
-See the original post below for how this was achieved.
-
-### Original Post
+title: 3D Pictures - Updated
 ---
 
 Recently ive been working on making 3D pictures using 3D printing.
@@ -51,3 +36,14 @@ I then just 3D printed it at 0.2mm layer height using a 0.4mm nozzle (bigger noz
 I then made a small paper background and painted both (badly) and made a small frame in Tinkercad and printed [this](https://www.thingiverse.com/thing:252254) stand.
 
 I hope this helps others to make cool little (or big) 3D pictures.
+
+### Update - 24/2/2020
+---
+I have now completed my final goal for this project, I have printed a large scale version (~50cm wide), here are some pictures:
+
+<img src="https://i.imgur.com/RqFVx7m.jpg">
+<img src="https://i.imgur.com/BXfN8Ni.jpg">
+
+This one was printed using a 0.8mm nozzle at 0.32mm layer height, I decided to leave this one unpainted as I feel it will show off the detail better.
+
+The original photo was taken at Llyn Idwal in Snowdonia.
