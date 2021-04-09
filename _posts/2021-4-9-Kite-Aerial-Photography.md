@@ -26,6 +26,6 @@ My setup consists of a cheap £30 action camera on a 3D printed gimbal with the 
 
 The camera has a WiFi function that allows you connect to it with an app and see a preview/control capture etc, I used this WiFi hotspot to connect a microcontroller (ESP8266) to it and used servos to control the gimball (one continuous and one 180 degree one).
 
-I am then able to control the gimball and see a preview/control capture at the same time, WiFi signal can be spotty if you let the camera out alot but normally standing right underneath it brings it back.
+I am then able to control the gimball and see a preview/control capture at the same time, WiFi signal for the preview can be spotty if you let the camera out alot but normally standing right underneath it brings it back.
 
 <img src='/images/Screenshot_20210409-115130_DV KING 4K.jpg' width='350' height='620'>
