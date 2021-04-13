@@ -30,7 +30,7 @@ The camera has a WiFi function that allows you to connect to it with an app and 
 
 I am then able to control the gimball and see a preview/control capture at the same time, WiFi signal for the preview can be spotty if you let the camera out alot but normally standing right underneath it brings it back.
 
-I normally just set the camera to take a photo every 3 seconds and move the gimbal about every now and then as the swaying from the wind can mean that some photos are no good (apparently increasing the size of my Picavet can mitigate that more).
+I normally just set the camera to take a photo every 3 seconds and move the gimbal about every now and then as the swaying from the wind can mean that some photos are no good (apparently increasing the size of my Picavet can mitigate that).
 
 I also added a temp and humidity sensor to the board as I had it lying around and thought it might be interesting to see the the temperature up on the kite (I mostly forget its even there when controlling the gimbal)
 
