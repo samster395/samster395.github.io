@@ -28,6 +28,8 @@ The camera has a WiFi function that allows you to connect to it with an app and 
 
 I am then able to control the gimball and see a preview/control capture at the same time, WiFi signal for the preview can be spotty if you let the camera out alot but normally standing right underneath it brings it back.
 
+I also added a temp and humidity sensor to the board as I had it lying around and thought it might be interesting to see the the temperature up on the kite (I mostly forget its even there when controlling the gimbal)
+
 <img src='/images/Screenshot_20210409-115130_DV KING 4K.jpg' width='350' height='620'>
 
 I have ordered an ESP8266 with an OLED screen on the front as sometimes the camera changes the ESPs IP and I have no way of knowing it without plugging it into a PC.
