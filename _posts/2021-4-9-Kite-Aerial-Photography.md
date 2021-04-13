@@ -19,7 +19,7 @@ Obviously you would normally trying to keep the kite line out of the picture, as
 ### Setup
 ---
 
-My setup consists of a cheap £30 action camera on a 3D printed gimbal with the commony used pendulum suspension method to keep the camera level.
+My setup consists of a cheap £30 action camera on a 3D printed gimbal with the commony used Picavet suspension method to keep the camera level.
 
 I use [this kite](http://www.spiritofair.co.uk/10168.htm) and attach the rig to the line after letting it out a bit.
 
@@ -29,6 +29,8 @@ I use [this kite](http://www.spiritofair.co.uk/10168.htm) and attach the rig to 
 The camera has a WiFi function that allows you to connect to it with an app and see a preview/control capture etc, I used this WiFi hotspot to connect a microcontroller (ESP8266) to it and used servos to control the gimball (one continuous and one 180 degree one).
 
 I am then able to control the gimball and see a preview/control capture at the same time, WiFi signal for the preview can be spotty if you let the camera out alot but normally standing right underneath it brings it back.
+
+I normally just set the camera to take a photo every 3 seconds and move the gimbal about every now and then as the swaying from the wind can mean that some photos are no good (apparently increasing the size of my Picavet can mitigate that more).
 
 I also added a temp and humidity sensor to the board as I had it lying around and thought it might be interesting to see the the temperature up on the kite (I mostly forget its even there when controlling the gimbal)
 
