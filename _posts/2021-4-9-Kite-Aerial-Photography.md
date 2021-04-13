@@ -21,6 +21,12 @@ Obviously you would normally trying to keep the kite line out of the picture, as
 
 My setup consists of a cheap £30 action camera on a 3D printed gimbal with the commony used Picavet suspension method to keep the camera level.
 
+My gimball setup is a bit of a mix & match between multple 3d designs, First I use the Picavet print from [here](https://www.thingiverse.com/thing:857240) without the go pro mount bit, then I use my own 360 servo mount underneath it and then attached to that is the roll servo print from [here](https://howtomechatronics.com/projects/diy-arduino-gimbal-self-stabilizing-platform/) and then attached to that an edited version of the pitch servo print from there.
+
+I used the same servo linked in the how to mechanics article but 2 instead of 3 and one continuous and one 180°.
+
+I will put all files [here](https://github.com/ToXIc-Dev/Arduino_Stuff/tree/master/KAP%20Gimbal).
+
 I use [this kite](http://www.spiritofair.co.uk/10168.htm) and attach the rig to the line after letting it out a bit.
 
 <img src='/images/pend.jpg' width='350' height='320'>
