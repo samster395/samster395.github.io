@@ -25,7 +25,7 @@ My gimball setup is a bit of a mix & match between multple 3d designs, First I u
 
 I used the same servo linked in the how to mechanics article but 2 instead of 3 and one continuous and one 180°.
 
-I will put all files [here](https://github.com/ToXIc-Dev/Arduino_Stuff/tree/master/KAP%20Gimbal).
+I will put all files (including the code ran on the ESP) [here](https://github.com/ToXIc-Dev/Arduino_Stuff/tree/master/KAP%20Gimbal).
 
 I use [this kite](http://www.spiritofair.co.uk/10168.htm) and attach the rig to the line after letting it out a bit.
 
