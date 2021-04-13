@@ -21,6 +21,8 @@ Obviously you would normally trying to keep the kite line out of the picture, as
 
 My setup consists of a cheap £30 action camera on a 3D printed gimbal with the commony used pendulum suspension method to keep the camera level.
 
+I use [this kite](http://www.spiritofair.co.uk/10168.htm) and attach the rig to the line after letting it out a bit.
+
 <img src='/images/pend.jpg' width='350' height='320'>
 <img src='/images/20210409_113852.jpg' width='350' height='320'>
 
