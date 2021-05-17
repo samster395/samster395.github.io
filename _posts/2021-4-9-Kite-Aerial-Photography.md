@@ -9,7 +9,7 @@ I would love to have a drone to take some aerial photography but some national p
 
 When I was looking at drones, I somehow stumbled upon something called Kite Aerial Photography or KAP for short and I thought it was a great alternative to drones, with a drone you are still able to take way better pics easier but for me the pros outweigh the cons.
 
-Here is an example of some photos ive take n using my setup:
+Here is an example of some photos ive taken using my setup:
 
 ![_config.yml]({{ site.baseurl }}/images/AATP0189.jpg)
 ![_config.yml]({{ site.baseurl }}/images/AATP0039.jpg)
