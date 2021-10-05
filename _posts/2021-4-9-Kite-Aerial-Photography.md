@@ -14,7 +14,7 @@ Here is an example of some photos ive taken using my setup:
 ![_config.yml]({{ site.baseurl }}/images/AATP0189.jpg)
 ![_config.yml]({{ site.baseurl }}/images/AATP0039.jpg)
 
-Obviously you would normally trying to keep the kite line out of the picture, as in the second picture.
+Obviously you would normally try to keep the kite line out of the picture, as in the second picture.
 
 ### Setup
 ---
