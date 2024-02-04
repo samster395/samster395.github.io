@@ -24,7 +24,7 @@ Note: this frame and chute design is far from perfect as when they push stick is
 
 <img src='https://i.imgur.com/vJYrUBJ.jpg' height='320'>
 
-This is what the inside looks like, the slopes are at 30 degree angle. 
+This is what the inside looks like, the slopes are at 30 degree angles. 
 
 <img src='https://i.imgur.com/Q7mtHSs.jpg' height='320'>
 
