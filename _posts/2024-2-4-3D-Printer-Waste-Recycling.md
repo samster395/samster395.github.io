@@ -16,7 +16,7 @@ First I'll show a picture of the successful moulded skull, Pretty good right!
 ### Shredder Setup
 ---
 
-My shredder setup consists of a cheap £35 Handheld Planer ([Link for people in the UK](https://www.screwfix.com/p/titan-ttb930pln-2mm-electric-planer-240v/593vv)) with a DIY mounting frame and chute mounted around it with a push stick to force parts into the blade, I also 3D printed a 90 Degree dust port pipe.
+My shredder setup consists of a cheap £35 Handheld Planer ([Link for people in the UK](https://www.screwfix.com/p/titan-ttb930pln-2mm-electric-planer-240v/593vv)) with a DIY frame and chute mounted around it with a push stick to force parts into the blade, I also 3D printed a 90 Degree dust port pipe.
 
 The reason I didnt design it exactly like the Instructables page is because I thought that design limited the size of parts that could go through it, I tried to fix that in my design, I got someway towards that but I think more can be done.
 
