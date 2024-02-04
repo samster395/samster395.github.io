@@ -1,4 +1,4 @@
-.---
+---
 layout: post
 title: 3D Printer Waste Recycling
 ---
