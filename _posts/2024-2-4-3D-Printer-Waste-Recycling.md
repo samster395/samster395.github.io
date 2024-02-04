@@ -1,4 +1,4 @@
----
+.---
 layout: post
 title: 3D Printer Waste Recycling
 ---
@@ -37,7 +37,7 @@ The shredder output isnt amazing but the pieces arent too big, its good for the 
 ### Mould Setup
 ---
 
-For melting the shredded bits into a mould I use a [toaster oven](https://i.imgur.com/9jkwUM7.jpg) that I got off FB marketplace for £10.
+For melting the shredded bits into a mould I use a [toaster oven](https://i.imgur.com/9jkwUM7.jpg) that I got off FB marketplace for £10 as I don't believe it'd be very healthy to melt plastic in my food oven.
 
 The parts are put into a mould like so and put onto a tray in the oven, I had the temp set at around 220C and make sure to only use the bottom heating element, having the top one on caused it to burn the filament.
 
