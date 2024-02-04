@@ -11,7 +11,7 @@ I have seen before that people have melted it into silicon moulds and I like tha
 
 First I'll show a picture of the successful moulded skull, Pretty good right!
 
-<img src='https://i.imgur.com/NKX86Yp.jpg' width='350' height='320'>
+<img src='https://i.imgur.com/NKX86Yp.jpg' height='500'>
 
 ### Shredder Setup
 ---
