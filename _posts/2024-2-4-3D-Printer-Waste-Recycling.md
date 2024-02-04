@@ -3,6 +3,8 @@ layout: post
 title: 3D Printer Waste Recycling
 ---
 
+Finally a use for all that waste!
+
 I have kept my 3D printing waste since I got a 3D printer back in 2018, I dont print that much but had still amassed a decent sized shopping bag full of it, I've always hoped that someday I could re-use it, I know that trying to melt it back into filament is a whole different headache so I haven't tried that yet.
 
 I have seen before that people have melted it into silicon moulds and I like that idea but I first needed to get my waste into more of a shredded size, I came across [this idea](https://www.instructables.com/Low-Cost-Plastic-Shredder/) of using a handheld planer mounted upside down to make a low cost shredder so I decided to give it a go, here are my results.
