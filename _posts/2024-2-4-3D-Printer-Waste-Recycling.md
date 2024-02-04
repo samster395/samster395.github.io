@@ -44,3 +44,10 @@ The parts are put into a mould like so and put onto a tray in the oven, I had th
 <img src='https://i.imgur.com/2SqMWoy.jpg' height='800'>
 
 That's basically it, I managed to produce the results seen at the top, I'm really happy with the result, Im probably gonna try other moulds and maybe refine the proccess.
+
+### Possible Improvements
+---
+ 
+* Making it so the shredder cant throw stuff out when the push stick is out, the issue is, you cant put stuff stuff in the shredder before turning it on as then the blade isnt able to get up to speed and it jams, I accidentally did this and the planer started smoking, woops, I have thought of having a slide out shelf that holds stuff above until its turned on.
+
+* Possible improvment for the melting proccess could be a vibrating plate to stop the air bubbles seen on my first one.
