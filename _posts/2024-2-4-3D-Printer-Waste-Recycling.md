@@ -45,6 +45,8 @@ The parts are put into a mould like so and put onto a tray in the oven, I had th
 
 That's basically it, I managed to produce the results seen at the top, I'm really happy with the result, Im probably gonna try other moulds and maybe refine the proccess.
 
+I got the mold from [Hobbycraft](https://www.hobbycraft.co.uk/skull-silicone-mould/6665331000.html) which is a UK store.
+
 ### Possible Improvements
 ---
  
