@@ -41,6 +41,8 @@ The shredder output isnt amazing but the pieces arent too big, its good for the 
 
 For melting the shredded bits into a mould I use a [toaster oven](https://i.imgur.com/9jkwUM7.jpg) that I got off FB marketplace for £10 as I don't believe it'd be very healthy to melt plastic in my food oven.
 
+Note: If you plan to replicate this, please use the oven outside like I did, it stinks and smokes a lot, the smoke maybe could be avoided if you're more careful.
+
 The parts are put into a mould like so and put onto a tray in the oven, I had the temp set at around 220C and make sure to only use the bottom heating element, having the top one on caused it to burn the filament.
 
 <img src='https://i.imgur.com/2SqMWoy.jpg'>
