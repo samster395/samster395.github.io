@@ -22,7 +22,7 @@ The reason I didnt design it exactly like the Instructables page is because I th
 
 Note: this frame and chute design is far from perfect as when they push stick isnt in place it throws stuff everywhere, I'll probably refine the design to stop that.
 
-I guess it's possible could could print the whole thing but I'm not sure about strength compared to wood and also I have loads of spare wood and not loads of spare filament.
+I guess it's possible you could print the whole thing but I'm not sure about strength compared to wood and also I have loads of spare wood and not loads of spare filament.
 
 <img src='https://i.imgur.com/vJYrUBJ.jpg'>
 
