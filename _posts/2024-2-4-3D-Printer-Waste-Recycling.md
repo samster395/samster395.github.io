@@ -20,8 +20,6 @@ My shredder setup consists of a cheap £35 Handheld Planer ([Link for people in 
 
 The reason I didnt design it exactly like the Instructables page is because I thought that design limited the size of parts that could go through it, I tried to fix that in my design, I got someway towards that but I think more can be done.
 
-Note: this frame and chute design is far from perfect as when they push stick isnt in place it throws stuff everywhere, I'll probably refine the design to stop that.
-
 I guess it's possible you could print the whole thing but I'm not sure about strength compared to wood and also I have loads of spare wood and not loads of spare filament.
 
 <img src='https://i.imgur.com/vJYrUBJ.jpg'>
@@ -55,6 +53,7 @@ I got the mold from [Hobbycraft](https://www.hobbycraft.co.uk/skull-silicone-mou
 ---
  
 * Making it so the shredder cant throw stuff out when the push stick is out, the issue is, you cant put stuff stuff in the shredder before turning it on as then the blade isnt able to get up to speed and it jams, I accidentally did this and the planer started smoking, woops, I have thought of having a slide out shelf that holds stuff above until its turned on.
+Update 6/2/2024 - I have now printed a [flat 3mm thick "shelf"](https://i.imgur.com/M1wYJne.jpg) for it, I believe this will alleviate the issue. You have the shelf in to start, put stuff on top of it, put the push stick in, turn the shredder on, then pull the shelf out, the stuff will fall into the blade and the push stick should keep it from flying out.
 
 * Possible improvment for the melting proccess could be a vibrating plate to stop the air bubbles seen on my first one.
 
