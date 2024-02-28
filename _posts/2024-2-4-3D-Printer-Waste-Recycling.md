@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Printer Waste Recycling
+title: 3D Printer Waste Recycling - Updated 28/2/24
 ---
 
 Finally a use for all that waste!
@@ -13,8 +13,8 @@ First I'll show a picture of the successful moulded skull, Pretty good right!
 
 <img src='https://i.imgur.com/NKX86Yp.jpg'>
 
-### Shredder Setup
 ---
+### Shredder Setup
 
 My shredder setup consists of a cheap £35 Handheld Planer ([Link for people in the UK](https://www.screwfix.com/p/titan-ttb930pln-2mm-electric-planer-240v/593vv)) with a DIY frame and chute mounted around it with a push stick to force parts into the blade, I also 3D printed a 90 Degree dust port pipe.
 
@@ -34,8 +34,8 @@ It shreds stuff pretty well, huge parts dont fit but a lot does or can be broken
 
 The shredder output isnt amazing but the pieces arent too big, its good for the price.
 
-### Mould Setup
 ---
+### Mould Setup
 
 For melting the shredded bits into a mould I use a [toaster oven](https://i.imgur.com/9jkwUM7.jpg) that I got off FB marketplace for £10 as I don't believe it'd be very healthy to melt plastic in my food oven.
 
@@ -49,11 +49,26 @@ That's basically it, I managed to produce the results seen at the top, I'm reall
 
 I got the mold from [Hobbycraft](https://www.hobbycraft.co.uk/skull-silicone-mould/6665331000.html) which is a UK store.
 
-### Possible Improvements
 ---
+### Updates
+
+#### Update 28/2/2024
+
+Sometimes big bits still manage to get through the shredder so I have now prinred a [sieve with 1cm holes](https://i.imgur.com/in8znaN.jpg) to filter out the big bits.
+
+I got the customizable OpenSCAD file from [here](https://github.com/DrLex0/print3D-customizable-sieve/tree/master).
+
+This give a [more uniform size](https://i.imgur.com/8ENQzlT.jpg) of shreded bits which makes it easier to put into moulds, the rest can go back through the shredder.
+
+#### Update 6/2/2024
+
+I have now printed a [flat 3mm thick "shelf"](https://i.imgur.com/M1wYJne.jpg) for it, I believe this will alleviate the issue of stuff flying out. You have the shelf in to start, put stuff on top of it, put the push stick in, turn the shredder on, then pull the shelf out, the stuff will fall into the blade and the push stick should keep it from flying out.
+
+
+---
+### Possible Improvements
  
-* Making it so the shredder cant throw stuff out when the push stick is out, the issue is, you cant put stuff stuff in the shredder before turning it on as then the blade isnt able to get up to speed and it jams, I accidentally did this and the planer started smoking, woops, I have thought of having a slide out shelf that holds stuff above until its turned on.
-Update 6/2/2024 - I have now printed a [flat 3mm thick "shelf"](https://i.imgur.com/M1wYJne.jpg) for it, I believe this will alleviate the issue. You have the shelf in to start, put stuff on top of it, put the push stick in, turn the shredder on, then pull the shelf out, the stuff will fall into the blade and the push stick should keep it from flying out.
+~~* Making it so the shredder cant throw stuff out when the push stick is out, the issue is, you cant put stuff stuff in the shredder before turning it on as then the blade isnt able to get up to speed and it jams, I accidentally did this and the planer started smoking, woops, I have thought of having a slide out shelf that holds stuff above until its turned on.~~
 
 * Possible improvment for the melting proccess could be a vibrating plate to stop the air bubbles seen on my first one.
 
