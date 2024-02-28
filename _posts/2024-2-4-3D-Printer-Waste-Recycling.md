@@ -58,7 +58,7 @@ Sometimes big bits still manage to get through the shredder so I have now prinre
 
 I got the customizable OpenSCAD file from [here](https://github.com/DrLex0/print3D-customizable-sieve/tree/master).
 
-This give a [more uniform size](https://i.imgur.com/8ENQzlT.jpg) of shreded bits which makes it easier to put into moulds, the rest can go back through the shredder.
+This gives a [more uniform size](https://i.imgur.com/8ENQzlT.jpg) of shreded bits which makes it easier to put into moulds, the rest can go back through the shredder.
 
 #### Update 6/2/2024
 
