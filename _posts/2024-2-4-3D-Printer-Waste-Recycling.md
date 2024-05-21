@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Printer Waste Recycling - Updated 28/2/24
+title: 3D Printer Waste Recycling - Updated 21/5/24
 ---
 
 Finally a use for all that waste!
@@ -59,6 +59,10 @@ I got the mold from [Hobbycraft](https://www.hobbycraft.co.uk/skull-silicone-mou
 
 ---
 ### Updates
+
+#### Update 21/5/2024
+
+I have now also printed a funnel to get the shredded waste into the moulds easier without it going everywhere, I got the file from [here](https://www.printables.com/model/435075-hose-adapterfunnel-parametric-openscad).
 
 #### Update 28/2/2024
 
