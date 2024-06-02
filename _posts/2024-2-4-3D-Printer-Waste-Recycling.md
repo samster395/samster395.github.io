@@ -5,6 +5,8 @@ title: 3D Printer Waste Recycling - Updated 21/5/24
 
 Finally a use for all that waste!
 
+<img src='https://i.imgur.com/NKX86Yp.jpg' width="400">
+
 Having owned the 3D printer for 6 years, I had amassed a lot of waste from failed prints, I had always hoped that someday I could re-use it, I wasn’t sure how this could be done, so I did some research.
 
 The most common filament used in 3D Printing called PLA is sometimes sold as biodegradable, after some research I found it is biodegradable but only in certain circumstances like an industrial composting facility where temperatures are over 60°C and even then, it takes a long time, its not really something a consumer is going to be able to achieve at home.
@@ -15,9 +17,7 @@ Taking into account these points I decided to try and recycle the filament.
 
 I saw that some people have melted it into silicone moulds, and I like that idea, but I first needed to get my waste into smaller sized pieces, I came across [this idea](https://www.instructables.com/Low-Cost-Plastic-Shredder/) of using a handheld planer mounted upside down with a DIY chute around it to make a low-cost shredder, so I decided to give it a go.
 
-First I'll show a picture of the successful moulded skull, Pretty good right!
-
-<img src='https://i.imgur.com/NKX86Yp.jpg' width="400">
+At the top is a picture of the successful moulded skull, Pretty good right!
 
 ---
 ### Shredder Setup
