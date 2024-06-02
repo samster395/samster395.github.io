@@ -100,4 +100,4 @@ I also had a quick way of turning it off should it be needed.
 
 ### Any Feedback is welcome.
 
-[Link to the Printables page with the files, although they are specific to my setup.](https://www.printables.com/model/754217-low-cost-3d-printed-waste-shredder-and-recycling)
+[Link to the Printables page with the files, although they are specific to my setup.](https://www.printables.com/model/754217-low-cost-3d-printer-waste-shredder-and-recycling)
