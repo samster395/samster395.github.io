@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Cost 3D Printer Waste Recycling
+title: Low Cost 3D Printer Waste Recycling - Updated
 ---
 
 Finally a use for all that waste!
