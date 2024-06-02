@@ -99,3 +99,5 @@ The way in which the chute is designed makes it so you would have to put your ha
 I also had a quick way of turning it off should it be needed.
 
 ### Any Feedback is welcome.
+
+[Link to the Printables page with the files, although they are specific to my setup.](https://www.printables.com/model/754217-low-cost-3d-printed-waste-shredder-and-recycling)
