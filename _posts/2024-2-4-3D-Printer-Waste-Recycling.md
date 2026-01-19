@@ -5,7 +5,7 @@ title: Low Cost 3D Printer Waste Recycling - Updated
 
 Finally a use for all that waste!
 
-<img src='https://i.imgur.com/NKX86Yp.jpg' width="400">
+<img src='https://i.ibb.co/GQnvGBH9/NKX86Yp.jpg' width="400">
 
 Having owned the 3D printer for 6 years, I had amassed a lot of waste from failed prints, I had always hoped that someday I could re-use it, I wasn’t sure how this could be done, so I did some research.
 
@@ -28,15 +28,15 @@ The reason I didnt design it exactly like the Instructables page is because I th
 
 I guess it's possible you could print the whole thing but I'm not sure about strength compared to wood and also I have loads of spare wood and not loads of spare filament.
 
-<img src='https://i.imgur.com/vJYrUBJ.jpg' width="400">
+<img src='https://i.ibb.co/20p11QdW/v-JYr-UBJ.jpg' width="400">
 
 This is what the inside looks like, the slopes are at 30 degree angles. 
 
-<img src='https://i.imgur.com/Q7mtHSs.jpg' width="400">
+<img src='https://i.ibb.co/50jjjms/Q7mt-HSs.jpg' width="400">
 
 It shreds stuff pretty well, huge parts dont fit but a lot does or can be broken to fit, here is a video of it.
 
-<img src='https://i.imgur.com/Ia2tZf9.gif' width="400">
+<img src='https://i.ibb.co/fVnLwRqR/Ia2t-Zf9.gif' width="400">
 
 The shredder output isnt amazing but the pieces arent too big, its good for the price.
 
@@ -45,13 +45,13 @@ The shredder output isnt amazing but the pieces arent too big, its good for the 
 
 For melting the shredded bits into a mould I use a toaster oven that I got off FB marketplace for £10 as I don't believe it'd be very healthy to melt plastic in my food oven.
 
-<img src='https://i.imgur.com/9jkwUM7.jpg' width="400">
+<img src='https://i.ibb.co/4wXYBSjR/9jkw-UM7.jpg' width="400">
 
 Note: If you plan to replicate this, please use the oven outside like I did, it stinks and smokes a lot, the smoke maybe could be avoided if you're more careful.
 
 The parts are put into a mould like so and put onto a tray in the oven, I had the temp set at around 200C and make sure to only use the bottom heating element, having the top one on caused it to burn the filament.
 
-<img src='https://i.imgur.com/2SqMWoy.jpg' width="400">
+<img src='https://i.ibb.co/p65DZ8jj/2Sq-MWoy.jpg' width="400">
 
 That's basically it, I managed to produce the results seen at the top, I'm really happy with the result, Im probably gonna try other moulds and maybe refine the proccess.
 
@@ -68,7 +68,7 @@ I have now also printed a funnel to get the shredded waste into the moulds easie
 
 Sometimes big bits still manage to get through the shredder so I have now prinred a sieve with 1cm holes to filter out the big bits.
 
-<img src='https://i.imgur.com/in8znaN.jpg' width="400">
+<img src='https://i.ibb.co/Fk23BKYf/in8zna-N.jpg' width="400">
 
 I got the customizable OpenSCAD file from [here](https://github.com/DrLex0/print3D-customizable-sieve/tree/master).
 
@@ -80,7 +80,7 @@ This gives a more uniform size of shreded bits which makes it easier to put into
 
 I have now printed a flat 3mm thick "shelf" for it, I believe this will alleviate the issue of stuff flying out. You have the shelf in to start, put stuff on top of it, put the push stick in, turn the shredder on, then pull the shelf out, the stuff will fall into the blade and the push stick should keep it from flying out.
 
-<img src='https://i.imgur.com/M1wYJne.jpg' width="400">
+<img src='https://i.ibb.co/gbXzqrZJ/M1w-YJne.jpg' width="400">
 
 ---
 ### Possible Improvements
