@@ -7,7 +7,7 @@ Recently ive been working on making 3D pictures using 3D printing.
 
 Here is a picture of one of them:
 
-<img src="/images/3d_p/1.jpg">
+<img src="/images/3d_pic/1.jpg">
 
 This one is pretty basic but I kinda like the minimalistic look, this photo was taken near Wast Water in the Lake district.
 
@@ -24,12 +24,12 @@ First I got the image I wanted to use, cut it down to size and removed the sky a
 
 Here are some progress pictures:
 
-<img src="/images/3d_p/2.jpg" width="400">
-<img src="/images/3d_p/3.png" width="400">
+<img src="/images/3d_pic/2.jpg" width="400">
+<img src="/images/3d_pic/3.png" width="400">
 
 Then I put it into the wonderful [Lithophane maker](http://3dp.rocks/lithophane/) by [MarkDurbin104](https://github.com/MarkDurbin104)
 
-I used [these](/images/3d_p/6png) settings.
+I used [these](/images/3d_pic/6png) settings.
 
 I then just 3D printed it at 0.2mm layer height using a 0.4mm nozzle (bigger nozzle size and layer heights do work though).
 
@@ -41,8 +41,8 @@ I hope this helps others to make cool little (or big) 3D pictures.
 ---
 I have now completed my final goal for this project, I have printed a large scale version (~50cm wide), here are some pictures:
 
-<img src="/images/3d_p/4.jpg">
-<img src="/images/3d_p/5.jpg">
+<img src="/images/3d_pic/4.jpg">
+<img src="/images/3d_pic/5.jpg">
 
 This one was printed using a 0.8mm nozzle at 0.32mm layer height, I decided to leave this one unpainted as I feel it will show off the detail better.
 
